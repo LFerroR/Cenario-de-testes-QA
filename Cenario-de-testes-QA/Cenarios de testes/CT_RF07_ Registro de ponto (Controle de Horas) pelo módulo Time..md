@@ -64,3 +64,9 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir corretamente os registros existentes da data informada. |
+
+## 🔗 Evidências (Jam.dev)
+
+- **C01-CT01** → [Execução](https://jam.dev/c/5ca66892-ca00-477d-bc2f-75d450873baf)  
+- **C01-CT02** → [Execução](https://jam.dev/c/458bfd4c-b33d-4f59-885b-28b76686dc80)  
+- **C01-CT03** → [Execução](https://jam.dev/c/23e27e64-0131-4171-8548-19c6dc48bc4e) 
