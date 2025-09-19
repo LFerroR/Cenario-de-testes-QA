@@ -68,3 +68,9 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O candidato pesquisado deve ser exibido na lista de resultados. |
+
+## 🔗 Evidências (Jam.dev)
+
+- **C01-CT01** → [Execução](https://jam.dev/c/2d3626d3-cc4b-4df6-94e5-5c8b2a835f07)  
+- **C01-CT02** → [Execução](https://jam.dev/c/85559481-87cb-4659-9c23-071d31570643)  
+- **C01-CT03** → [Execução](https://jam.dev/c/34dfc43b-bf53-4fe7-b91b-a9af58426e66) 
