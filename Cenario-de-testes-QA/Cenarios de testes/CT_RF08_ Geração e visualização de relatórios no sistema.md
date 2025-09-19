@@ -65,3 +65,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O download do arquivo PDF deve ocorrer com os dados exibidos na tela. |
+
+## 🔗 Evidências (Jam.dev)
+
+- **C01-CT01** → [Execução](https://jam.dev/c/e7b18f30-680a-42ea-9ebb-b3a04689ccbe)  
+- **C01-CT02** → [Execução](https://jam.dev/c/880fa0e2-21bf-41b7-9c0c-ec88d172f0d2)  
