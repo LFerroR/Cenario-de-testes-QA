@@ -68,3 +68,9 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A lista deve conter apenas usuários com status "Enabled".       |
+
+## 🔗 Evidências (Jam.dev)
+
+- **C01-CT01** → [Execução](https://jam.dev/c/8cba8931-af95-42dc-9a7f-66f69f0f6ed0)  
+- **C01-CT02** → [Execução](https://jam.dev/c/dbeee035-ca95-4596-bf86-f12be7ee920c)  
+- **C01-CT03** → [Execução](https://jam.dev/c/3aa864f2-12ee-4df9-8ea7-ce09b22f8085) 
